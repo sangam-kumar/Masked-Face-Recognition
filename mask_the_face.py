@@ -1,4 +1,3 @@
-
 import argparse
 import dlib
 from utils.aux_functions import *
